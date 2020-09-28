@@ -1,0 +1,26 @@
+body {
+  background-color: #d0ecf7;
+  font-family: 'Comic Neue', cursive;
+}
+
+.custom-font-1{
+  font-family: 'Secular One', sans-serif;
+}
+
+span{
+  font-display: bold;
+}
+
+.d-flex.space-between{
+  display: flex;
+  justify-content: space-between;
+}
+
+.hidden{
+  display: none;
+}
+
+.cat-size{
+  height: 200px;
+  width: 200px;
+}
